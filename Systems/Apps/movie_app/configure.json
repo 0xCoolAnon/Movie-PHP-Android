@@ -1,0 +1,23 @@
+{
+  "databases": [
+    {
+      "host": "127.0.0.1",
+      "database": "movieapp",
+      "username": "root",
+      "password": ""
+    }
+  ],
+  "constants": [
+    {
+      "PORTAL": "http://localhost/Movie-PHP-Android/"
+    },
+	{
+		"PUBLIC_IV": "8QxkFfZ6WX9moQ1wGXUaqg=="
+	}, 
+	{
+		"PUBLIC_KEY": "d087b38ab9c6b83e2f3ead692ffd0171"
+	}
+  ],
+  "miscs": ["asset_loader.php"],
+  "headers": []
+}
