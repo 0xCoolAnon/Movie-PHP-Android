@@ -2,14 +2,14 @@
   "databases": [
     {
       "host": "127.0.0.1",
-      "database": "eperolehanv2",
+      "database": "movieapp",
       "username": "root",
       "password": ""
     }
   ],
   "constants": [
     {
-      "PORTAL": "http://localhost/ePerolehan/"
+      "PORTAL": "http://localhost/Movie-PHP-Android/"
     },
 	{
 		"PUBLIC_IV": "8QxkFfZ6WX9moQ1wGXUaqg=="
