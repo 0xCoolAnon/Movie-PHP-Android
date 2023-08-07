@@ -1,0 +1,23 @@
+{
+  "databases": [
+    {
+      "host": "127.0.0.1",
+      "database": "eperolehanv2",
+      "username": "root",
+      "password": ""
+    }
+  ],
+  "constants": [
+    {
+      "PORTAL": "http://localhost/ePerolehan/"
+    },
+	{
+		"PUBLIC_IV": "8QxkFfZ6WX9moQ1wGXUaqg=="
+	}, 
+	{
+		"PUBLIC_KEY": "d087b38ab9c6b83e2f3ead692ffd0171"
+	}
+  ],
+  "miscs": ["asset_loader.php"],
+  "headers": []
+}
